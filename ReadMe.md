@@ -2,7 +2,7 @@
 
 本次实验制作一个机器人的URDF包，本次使用机器人的是ABB，型号是460，是一种四自由度的机器人。
 下载好的模型如下：
-![avatar](pic/sw2urdf/001.png)
+![avatar](pic/sw2urdf/001.PNG)
 
 #
 #
@@ -27,7 +27,7 @@ sw和rviz的坐标系是对应的，sw的Y轴等同于rviz的z轴，因此在重
 #
 #
 首先安装插件pic/sw2urdfSetup。这个可以到维基下载安装完成后重启solidwork即可
-![avatar](pic/sw2urdf/007.png)
+![avatar](pic/sw2urdf/007.PNG)
 #
 #
 然后加入参考坐标系以及旋转轴（坐标系与旋转轴和DH模型类似）：
